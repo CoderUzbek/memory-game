@@ -13,7 +13,7 @@ body {
 .memory-game {
     display: grid;
     grid-template-columns: auto auto auto auto;
-    height: 480px;
+    height: 50%;
     margin: auto;
     perspective: 1000px;
     width: 480px;
