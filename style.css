@@ -13,10 +13,10 @@ body {
 .memory-game {
     display: grid;
     grid-template-columns: auto auto auto auto;
-    height: 50%;
+    height: 75%;
     margin: auto;
     perspective: 1000px;
-    width: 480px;
+    width: 75%;
 }
 
 .memory-card {
