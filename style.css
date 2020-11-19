@@ -82,3 +82,8 @@ button:hover {
 button:focus {
     box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.5);
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+}
