@@ -20,6 +20,13 @@ body {
     width: 480px;
 }
 
+
+footer {
+    position: fixed;
+    top: 96%;
+}
+
+
 @media (max-width: 576px) {
     .memory-game {
         height: 320px;
@@ -85,9 +92,4 @@ button:hover {
   
 button:focus {
     box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.5);
-}
-
-footer {
-    position: fixed;
-    top: 80%;
 }
