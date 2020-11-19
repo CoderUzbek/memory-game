@@ -84,6 +84,7 @@ button:focus {
 }
 
 footer {
+    height: 64px;
     margin-top: 20%;
     position: fixed;
     top: 80%;
