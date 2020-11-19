@@ -23,7 +23,7 @@ body {
 
 footer {
     position: fixed;
-    top: 96%;
+    top: 88%;
 }
 
 
@@ -33,8 +33,7 @@ footer {
         width: 320px;
     }
     footer {
-        position: fixed;
-        top: 100%;
+        margin: 22%;
     }
 }
 
