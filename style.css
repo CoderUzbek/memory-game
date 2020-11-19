@@ -22,7 +22,7 @@ body {
 
 
 footer {
-    margin-top: 9%;
+    margin-top: 7%;
     text-align: center;
 }
 
@@ -31,6 +31,10 @@ footer {
         height: 320px;
         width: 320px;
     }
+    footer {
+        display: none;
+    }
+
 }
 
 .memory-card {
