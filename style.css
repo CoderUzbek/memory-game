@@ -85,5 +85,5 @@ button:focus {
 
 footer {
     position: fixed;
-    top: 1024px;
+    top: 100%;
 }
