@@ -22,18 +22,14 @@ body {
 
 
 footer {
-    position: fixed;
-    top: 94%;
+    margin-top: 50%;
+    text-align: center;
 }
 
 @media (max-width: 576px) {
     .memory-game {
         height: 320px;
         width: 320px;
-    }
-    footer {
-        margin-top: 5rem;
-        position: static;
     }
 }
 
