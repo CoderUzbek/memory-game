@@ -26,14 +26,13 @@ footer {
     top: 94%;
 }
 
-
 @media (max-width: 576px) {
     .memory-game {
         height: 320px;
         width: 320px;
     }
     footer {
-        margin-top: 6%;
+        position: static;
     }
 }
 
