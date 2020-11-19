@@ -25,6 +25,10 @@ body {
         height: 320px;
         width: 320px;
     }
+    footer {
+        position: fixed;
+        top: 100%;
+    }
 }
 
 .memory-card {
@@ -84,8 +88,6 @@ button:focus {
 }
 
 footer {
-    height: 64px;
-    margin-top: 20%;
     position: fixed;
     top: 80%;
 }
