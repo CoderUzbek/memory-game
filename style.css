@@ -32,6 +32,7 @@ footer {
         width: 320px;
     }
     footer {
+        margin-top: 5rem;
         position: static;
     }
 }
